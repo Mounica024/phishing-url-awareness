@@ -59,8 +59,8 @@ The `screenshots` folder contains a sample program run and test results captured
 ## Ethical use
 Use this tool for learning and awareness. Do not enter passwords or other private information. Do not visit suspicious links just to test them.
 
-## Author
-## Student Details
+## Author / Student Details
 
 Name: Appalabhakthula Lakshmi Naga Mounica
+
 Batch: 1
