@@ -60,4 +60,7 @@ The `screenshots` folder contains a sample program run and test results captured
 Use this tool for learning and awareness. Do not enter passwords or other private information. Do not visit suspicious links just to test them.
 
 ## Author
-Add your name and batch details here before submission, if required by your workbook.
+## Student Details
+
+Name: Appalabhakthula Lakshmi Naga Mounica
+Batch: 1
