@@ -1,0 +1,18 @@
+==========================================================
+        PHISHING URL AWARENESS CHECKER
+==========================================================
+Checks URL text only; it does not open the website.
+
+Enter a URL (or type 'quit' to exit): 
+URL: http://192.0.2.10/account
+Result: WARNING SIGNS FOUND
+  - Uses an IP address instead of a domain name
+  - Uses HTTP instead of HTTPS
+Reminder: This result does NOT prove a URL is safe.
+
+Enter a URL (or type 'quit' to exit): 
+URL: https://www.example.com/login
+Result: No listed warning signs detected.
+Reminder: This result does NOT prove a URL is safe.
+
+Enter a URL (or type 'quit' to exit): Exiting checker. Stay alert online!
